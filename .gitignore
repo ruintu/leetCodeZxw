@@ -1,0 +1,92 @@
+/bin/
+.classpath
+.project
+.settings
+.m2
+
+
+
+/bin/
+.classpath
+.project
+.settings
+.m2
+
+
+# git
+.gitignore
+*/.gitignore
+**/.gitignore
+
+# svn
+.svn/
+*/.svn/
+**/.svn/
+
+# bin
+bin/
+*/bin/
+**/bin/
+
+
+# windows
+*.bat
+*/*.bat
+**/*.bat
+
+
+# maven
+/target/
+*/target/
+**/target/
+build/
+*/build/
+**/build/
+.gradle*
+*/.gradle*
+**/.gradle*
+
+
+# eclipse ignore
+.settings/
+*/.settings/
+**/.settings/
+.project
+*/.project
+**/.project
+.classpath
+*/.classpath
+**/.classpath
+
+
+# idea ignore
+.idea/
+*/.idea/
+**/.idea/
+*.iml
+*/*.iml
+**/*.iml
+.springBeans
+*/.springBeans
+**/.springBeans
+.factorypath
+*/.factorypath
+**/.factorypath
+*.ipr
+*/*.ipr
+**/*.ipr
+*.iws
+*/*.iws
+**/*.iws
+
+
+# Jrebel
+*/rebel.xml
+**/rebel.xml
+
+
+# tmp
+*.log.*
+*.log
+*.out
+ideaCodeResp.iml
